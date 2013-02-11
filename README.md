@@ -1,7 +1,7 @@
-Flash Turned-Based fighting game project
+Turned-Based Fighting "Game"
 ====
 
-Assignment 2 for Flash class.
+Assignment 2 for Flash class
 
 Play the finished game here!
 -----
